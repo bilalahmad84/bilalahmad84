@@ -1,1 +1,1 @@
- I tell stories through data
+ I Tell Stories Through Data
