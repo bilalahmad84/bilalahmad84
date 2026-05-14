@@ -1,8 +1,8 @@
- <h1 align="center">Hi, I'm Bilal Ahmad 👋</h1>
+<h1 align="center">Hi, I'm Bilal Ahmad 👋</h1>
 <h3 align="center">Public Health Researcher & Data Analyst | 10+ Years of Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Public+Health+Researcher+%7C+Data+Analyst;Maternal+%26+Child+Health+%7C+Nutrition+%7C+SDGs;Stata+%7C+R+%7C+Python+%7C+SQL+%7C+Power+BI;10%2B+Years+in+Global+Health+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Public+Health+Researcher+%7C+Data+Analyst;Maternal+%26+Child+Health+%7C+Nutrition+%7C+SDGs;Stata+%7C+R+%7C+Python+%7C+SQL+%7C+Power+BI;10%2B+Years+in+Global+Health+Research" alt="Typing SVG" />
 </p>
 
 ---
@@ -91,6 +91,7 @@
 | Period | Role | Organization |
 |--------|------|-------------|
 | 2022 – Present | Monitoring, Evaluation & Research Officer | Aga Khan Health Services Pakistan |
+| 2023 – 2024 | Research Assistant | Centre for Economic Research Pakistan (CERP) — Political Connections Project with Dr. Miriam Golden, University of California |
 | 2017 – 2022 | Research Officer | CGCDCA |
 | 2014 – 2017 | Research Analyst | AKRSP (Aga Khan Rural Support Programme) |
 | 2011 – 2014 | MEAL Officer | Hashoo Foundation |
@@ -100,7 +101,7 @@
 ## 🌐 Research Collaborations
 
 - 🏥 **Aga Khan University (AKU)** — Central Asia Stunting Initiative (CASI)
-- 🎓 **Dr. Miriam Golden, University of California** — Political Economy Research
+- 🎓 **Dr. Miriam Golden, University of California & CERP** — Political Connections Research, Centre for Economic Research Pakistan
 - 🌍 Multi-country research frameworks across **Pakistan and Central Asia**
 
 ---
@@ -120,4 +121,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bilalahmad84&label=Profile+Views&color=2E86C1&style=flat" alt="profile views" />
-</p>
+</p>  
