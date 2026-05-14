@@ -1,1 +1,1 @@
- I Tell Stories Through Data
+ Researcher & Data Analyst | From raw data to policy change 
