@@ -1,4 +1,4 @@
- Researcher & Data Analyst | From raw data to policy change 🌍
+ Researcher & Data Analyst | From raw data to policy change 
 
 <br><br><br><br><br><br><br><br><br><br>
 
