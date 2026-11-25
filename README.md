@@ -5,7 +5,7 @@
 
 📍 Pakistan | 📧 bilaliiui.ahmad616@gmail.com
 
-I am a public health research and monitoring, evaluation, and research professional with 10+ years of experience implementing field-based research, managing multi-site data collection, conducting data quality assurance, and analysing quantitative and longitudinal data.
+I am a public interdisciplinary researcher and monitoring and evaluation professional with 10+ years of experience implementing field-based research, managing multi-site data collection, conducting data quality assurance, and analysing quantitative and longitudinal data.
 
 My work focuses on maternal, newborn and child health (MNCH), household surveys, community-based research, and evidence generation to support public health and development programmes.
 
